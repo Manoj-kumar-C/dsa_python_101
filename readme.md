@@ -1,11 +1,7 @@
 ![DSA Image](./docs/dsa.jpg)
 
 
+For Top 100 Interview -- Preparation
 
-Path Way to the DSA in a Harder Way ---> 
-
-```
-
-```
-
+[Prep Insta](https://prepinsta.com/top-100-codes/)
 
