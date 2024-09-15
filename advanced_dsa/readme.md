@@ -1,6 +1,11 @@
 ```
 Complex Data Structures
 
+
+```
+BFS, DFS
+```
+
 Trees
 
 
