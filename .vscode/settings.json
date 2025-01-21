@@ -14,5 +14,9 @@
             "database": "root",
             "username": "root"
         }
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
 }
