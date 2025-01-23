@@ -6,16 +6,16 @@ using namespace std;
 void heapSort(int arr[], int n)
 {
 	// Convert array to vector
-	vector<int> v(arr, arr + n);
-
-	// Convert vector to Max Heap
+	vector<int> v(arr, arr+n);
 	make_heap(v.begin(), v.end());
 
-	// Sort Max Heap
+	// sorting of the heap
 	sort_heap(v.begin(), v.end());
 
-	// Copy sorted vector back to array
+	// Copying of the heap
+
 	copy(v.begin(), v.end(), arr);
+
 }
 
 int main()
